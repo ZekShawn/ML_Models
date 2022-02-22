@@ -1,9 +1,7 @@
-# ML Mini Models
+# ML开头的文件
 
-I will update the mini machine learning model from now not regularly.
+ML开头的文件表示为，机器学习（Machine Learning）的相关调用，或者实现，例如KNN；
 
-So, who knows what will be updated.
+# RL开头的文件
 
-# The files
-
-There are some homeworks of course [DRL].
+RL（Reinforce Learning）开头的文件表示强化学习模型的相关实现，目前多为《深度强化学习》课程作业；
