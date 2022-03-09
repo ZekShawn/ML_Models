@@ -1,5 +1,3 @@
-## MF20150100-邱祥智-DDPG
-
 ## What is DDPG ?
 
 DDPG, its full name is 'Deep Deterministic Policy Gradient'. We have learned the 'Policy Gradient' before, and 'Deep' means to use the deep neural network to fit the Q function.
