@@ -1,5 +1,3 @@
-# MF20150100-邱祥智-AC
-
 ## Let's come back the Policy Gradient.
 
 ### What is Policy Gradient？
