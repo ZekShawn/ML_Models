@@ -1,5 +1,3 @@
-# MF20150100-邱祥智-PG&NPG
-
 ## There's no  good results, but I have some thinkings.
 
 ### What is Policy Gradient？
